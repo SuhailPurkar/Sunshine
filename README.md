@@ -1,7 +1,7 @@
 # Sunshine
 
 
-Sunshine is the app made during the Udacity course [Developing Android Apps: Android Fundamentals](https://www.udacity.com/course/ud853).
+Always stay ahead of the weather with this light weight app. Made during [Developing Android Apps: Android Fundamentals](https://www.udacity.com/course/ud853).
 
 ## Demo
 The gif was recorded on a Android 5.1.1 KitKat device (API Level 22).
