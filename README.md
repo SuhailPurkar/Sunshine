@@ -1,4 +1,4 @@
-#Sunshine
+# Sunshine
 
 
 Sunshine is the app made during the Udacity course [Developing Android Apps: Android Fundamentals](https://www.udacity.com/course/ud853).
