@@ -17,9 +17,7 @@ Keys can be obtained via the following [instructions](http://openweathermap.org/
 `MyOpenWeatherMapApiKey="<UNIQUE_API_KEY">`
 
 ## License
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
-
-Sunshine is licensed under the GNU General Public License.
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  <img src="http://i.imgur.com/HAZWeo7.png" height = "51">
 
 This application is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
